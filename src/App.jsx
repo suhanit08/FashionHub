@@ -11,7 +11,7 @@ import Cart from "./pages/Cart";
 import NotFound from "./pages/NotFound";
 
 import "./styles/Navbar.css";
-import "./styles/Footer.css";
+import "./styles/footer.css";
 
 function App() {
   const [cartItems, setCartItems] = useState([]);
